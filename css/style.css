@@ -814,6 +814,7 @@ html {
     background-color: rgba(255,255,255,.6);
     border-radius: 50%;
     transition: 0.3s;
+    cursor: pointer;
 }
 .event_box3 .slick-dots li.slick-active button {
     background-color: rgba(255,255,255,1);
@@ -833,7 +834,9 @@ html {
     padding: 10px 50px;
     border-radius: 3px;
 }
-
+.event_box3 .eb_slider2 .page_act a {
+    padding: 0;
+}
 
 
 /* cont2 */
